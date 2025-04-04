@@ -1,0 +1,7 @@
+EXPORTS
+    base32_decode_alloc_ctx @1
+    base32_decode_ctx @2
+    base32_decode_ctx_init @3
+    base32_encode @4
+    base32_encode_alloc @5
+    isbase32 @6
