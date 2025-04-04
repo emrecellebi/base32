@@ -27,4 +27,4 @@ extern size_t base32_encode_alloc(const char* in, size_t inlen, char** out);
 }
 #endif
 
-#endif /* BASE64_H */
+#endif /* BASE32_H */
